@@ -7,7 +7,7 @@ youtube :https://www.youtube.com/watch?v=7hBxxXG7tmQ
 # Description
 It's a prevalent game in Taiwain nightmarket.It's my childhood so I wanna make one by my own.All of tools are handy,and code is easier for beginner.It's just elementary,when you Compare with other professional Arduino project .Yet I think you'll get more than you think, when you do a project by your own.How to debug 、cascade circuits and how to make your function explicit.Here is a sample I made.Not a masterpiece but I like it.
 
-# tool
+# Tool
 ![picture](https://github.com/qwp8510/Arduino-game-marble/blob/master/picture/game1.png)  
 Figure 2.Before I begin,I'll use creo  to design my imagine
 
