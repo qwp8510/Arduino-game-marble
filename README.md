@@ -9,7 +9,7 @@ It's a prevalent game in Taiwain nightmarket.There is great memory in my childho
 
 # Tool
 ![picture](https://github.com/qwp8510/Arduino-game-marble/blob/master/picture/game1.png)  
-Figure 2.Before I begin,I'll use creo  to design my imagine
+Figure 2.Before I beggan,I was using creo to design my imagine
 
 ![Styrofoam](https://github.com/qwp8510/Arduino-game-marble/blob/master/picture/1556899910576.jpg)  
 Figure 3. Styrofoam:I chose handy tool to make it.
